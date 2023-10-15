@@ -64,8 +64,8 @@ projects:
   - title: EduPro
     link: 
     details: |
-       University Assistance System
-  - title: Newspaper ( Java, JavaFX, MySQL)
+       University Assistance System ( Java, JavaFX, MySQL)
+  - title: Newspaper 
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
