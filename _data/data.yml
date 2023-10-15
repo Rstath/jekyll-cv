@@ -64,13 +64,10 @@ projects:
   - title: EduPro 
     details: |
        University Assistance System
-    
+    tools: |
+       Java, JavaFX, MySQL
 
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+
 
 # Volunteering
 volunteering:
