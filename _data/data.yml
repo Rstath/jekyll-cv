@@ -6,15 +6,16 @@ fork: true
 contact:
   email: rstathopoulou76@gmail.com
   github: Rstath
-  linkedin: roumpini-stathopoulou
+  linkedin: Roumpini Stathopoulou
   phone: 698 70 72 685
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Greek (Native)
+  - idiom: English (Profeciency)
+  - idiom: Spanish (Advanced)
+  - idiom: French (Advanced)
 
 education:
   - degree: MSc in Informatics
