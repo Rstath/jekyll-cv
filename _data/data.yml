@@ -36,10 +36,7 @@ skills:
   - category: Back End
     skill:
       - NodeJS
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+
 
 
 # Profile
