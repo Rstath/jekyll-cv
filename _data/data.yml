@@ -67,6 +67,12 @@ projects:
     tools: |
        Java, JavaFX, MySQL
 
+ - title: Newspaper 
+    details: |
+      Database
+    tools: |
+        MySQL
+
 
 
 # Volunteering
