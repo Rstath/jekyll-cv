@@ -59,7 +59,7 @@ experience:
   
   - role: Helpdesk 
     time: March 2022 - May 2023
-    company: Microsoft
+    company: CTI Diophantus, Patras
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -67,7 +67,7 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      CRM
 
 publications:
   - title: Random title of paper. An interesting one.
