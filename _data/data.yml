@@ -18,11 +18,13 @@ languages:
   - idiom: French (Advanced)
 
 education:
-  - degree: Master Human Computer Interaction 
+  - degree: Master Human Computer 
+  Interaction 
     time: 2023-Present
     university: University of Patras
 
-  - degree: Integrated Master in Computer Engineering & Informatics
+  - degree: Integrated Master in Computer Engineering
+      & Informatics
     time: 2017-2023
     university: University of Patras
 
