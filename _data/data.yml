@@ -61,11 +61,10 @@ experience:
 publications:
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: EduPro 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+       University Assistance System
+    
 
   - title: Cool Project 
     link: #
