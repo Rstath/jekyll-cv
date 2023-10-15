@@ -1,69 +1,108 @@
-name: Roumpini Stathopoulou
+name: John Doe
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: rstathopoulou76@gmail.com
-  github: Rstath
-  phone: 698 70 72 685
+  email: info@johndoe.com
+  github: johndoe
+  linkedin: johndoe
+  phone: 
+  gitlab: 
+  twitter: 
 
 languages:
-  - idiom: Greek (Native)
-  - idiom: English (Profeciency)
-  - idiom: Spanish (Advanced)
-  - idiom: French (Advanced)
+  - idiom: English
+  - idiom: Russian
+  - idiom: French
 
 education:
-  - degree: Msc Human Computer Interaction 
-    time: 2023-Present
-    university: University of Patras
+  - degree: MSc in Informatics
+    time: 2014-2016
+    university: Ionian University
 
-  - degree: Integrated Master in Computer Engineering & Informatics
-    time: 2017-2023
-    university: University of Patras
+  - degree: BSc in Computer Science
+    time: 2010-2014
+    university: Ionian University
 
 skills:
+  - category: Backend
+    skill: 
+      - Go
+      - Rust
   - category: Frontend
     skill:
-      - HTML,CSS,(ISML,SCSS)
-      - Javascript, jQuery
-      - Bootstrap
-
+      - React
+      - Typescript
+  - category: DevOps
+    skill:
+      - Docker
+      - Kubernetes 
 
 # Profile
 profile: |
-I am computer engineer with experience in C,Java,HTML,CSS, and Javascript.I am confident in my ability to analyze requirements, design solutions, and create seamless and engaging user experiences. I am driven to contribute to the development of cutting-edge technologies that enhance human-computer interaction, improve usability, and positively impact people's lives. I am currently deployed as a Business Analyst in the Commerce and Marketing Field and more specifically as as Front End Developer.
-education:
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+  fugiat nulla pariatur.
 
 # Experience
 experience:
-  - role: Business Analyst- Front End Developer
-    time: 2023-Present
-    company: DACC, Patras
+  - role: Software Engineer
+    time: 2020-Present
+    company: Google
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
-      ISML,SCSS,jQuery,Bootstrap,NodeJS
+      Go, Angular, Typescript, C++
   
-  - role: Helpdesk 
-    time:  March 2022 - May 2023
-    company: CTI Diophantus, Patras
-    details: Technical support
+  - role: Researcher
+    time: 2016-2020
+    company: Microsoft
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
-     CRM
+      Python, Tensorflow, Keras, Matlab
+
+publications:
+  - title: Random title of paper. An interesting one.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference, 2016
+
+  - title: Second title of paper. An interesting one too.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference again, 2018
 
 projects:
-  - title: EduPro 
+  - title: Cool Project 
+    link: #
     details: |
-       University Assistance System
-    tools: |
-        Java, JavaFX, MySQL
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
 
-  - title: Newspaper 
+  - title: Cool Project 
+    link: #
     details: |
-      Database
-    tools: |
-        MySQL
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
 
-  - title: Crowdsourcing System on WWW   
-    tools: |
-      HTML5,CSS,PHP,JavaScript,MySQL
+# Volunteering
+volunteering:
+  - time: 2020-Present
+    role: PR Manager
+    company: Some random organization
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
