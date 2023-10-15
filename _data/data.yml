@@ -6,7 +6,7 @@ fork: true
 contact:
   email: rstathopoulou76@gmail.com
   github: Rstath
-  linkedin: roumpini-stathopoulou-8a49a4234
+  linkedin: roumpini-stathopoulou
   phone: 698 70 72 685
   gitlab: 
   twitter: 
@@ -18,9 +18,9 @@ languages:
   - idiom: French (Advanced)
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MSc in Human Computer Interaction
+    time: 2023-Present
+    university: University of Patras
 
   - degree: BSc in Computer Science
     time: 2010-2014
