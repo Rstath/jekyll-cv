@@ -29,8 +29,10 @@ education:
 skills:
   - category: Front End
     skill: 
-      - Go
-      - Rust
+      - HTML
+      - CSS
+      - Bootstrap
+      - JavaScript, jQuery
   - category: Frontend
     skill:
       - React
