@@ -21,8 +21,8 @@ body {
         width: 90%;
         margin: 0 auto;
         padding:20px;
-        display: grid;
-        grid-template-columns: 2fr 5fr;
+        display: flex;
+       
         .sidebar {
             margin-top: 20px;
         }
