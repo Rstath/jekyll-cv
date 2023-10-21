@@ -22,9 +22,11 @@ body {
         margin: 0 auto;
         padding:20px;
         display: flex;
+
        
         .sidebar {
             margin-top: 20px;
+            order: 1;
         }
     }
 }
